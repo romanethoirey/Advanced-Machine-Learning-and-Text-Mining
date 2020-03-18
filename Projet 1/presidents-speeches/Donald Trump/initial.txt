@@ -1,0 +1,121 @@
+<div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix">    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-8-2020-statement-iran" hreflang="en">January 8, 2020: Statement on Iran</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-3-2020-remarks-killing-qasem-soleimani" hreflang="en">January 3, 2020: Remarks on the Killing of Qasem Soleimani</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-27-2019-statement-death-abu-bakr-al-baghdadi" hreflang="en">October 27, 2019: Statement on the the Death of Abu Bakr al-Baghdadi</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-25-2019-press-conference" hreflang="en">September 25, 2019: Press Conference</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-24-2019-remarks-united-nations-general-assembly" hreflang="en">September 24, 2019: Remarks at the United Nations General Assembly</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-15-2019-speech-declaring-national-emergency" hreflang="en">February 15, 2019: Speech Declaring a National Emergency</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-5-2019-state-union-address" hreflang="en">February 5, 2019: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-19-2019-remarks-about-us-southern-border" hreflang="en">January 19, 2019: Remarks about the US Southern Border</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-25-2018-address-73rd-session-united-nations-general" hreflang="en">September 25, 2018: Address at the 73rd Session of the United Nations General Assembly</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/july-24-2018-speech-veterans-foreign-wars-national-convention" hreflang="en">July 24, 2018: Speech at the Veterans of Foreign Wars National Convention</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/march-19-2018-remarks-combating-opioid-crisis" hreflang="en">March 19, 2018: Remarks on Combating the Opioid Crisis</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-23-2018-remarks-conservative-political-action" hreflang="en">February 23, 2018: Remarks at the Conservative Political Action Conference</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+<div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-15-2018-statement-school-shooting-parkland-florida" hreflang="en">February 15, 2018: Statement on the School Shooting in Parkland, Florida</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-1-2018-remarks-house-and-senate-republican-member" hreflang="en">February 1, 2018: Remarks at the House and Senate Republican Member Conference</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-30-2018-state-union-address" hreflang="en">January 30, 2018: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-26-2018-address-world-economic-forum" hreflang="en">January 26, 2018: Address at the World Economic Forum</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/december-18-2017-remarks-national-security-strategy" hreflang="en">December 18, 2017: Remarks on National Security Strategy</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-19-2017-address-united-nations-general-assembly" hreflang="en">September 19, 2017: Address to the United Nations General Assembly </a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/july-24-2017-speech-boy-scout-jamboree" hreflang="en">July 24, 2017: Speech at the Boy Scout Jamboree </a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-29-2017-speech-unleashing-american-energy-event" hreflang="en">June 29, 2017: Speech at the Unleashing American Energy Event</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-28-2017-address-joint-session-congress" hreflang="en">February 28, 2017: Address to Joint Session of Congress</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-20-2017-inaugural-address" hreflang="en">January 20, 2017: Inaugural Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div></div>

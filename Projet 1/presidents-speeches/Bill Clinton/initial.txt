@@ -1,0 +1,208 @@
+<div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix">    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-18-2001-farewell-address" hreflang="en">January 18, 2001: Farewell Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-27-2000-state-union-address" hreflang="en">January 27, 2000: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-10-1999-address-kosovo-agreement" hreflang="en">June 10, 1999: Address on the Kosovo Agreement</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/march-24-1999-statement-kosovo" hreflang="en">March 24, 1999: Statement on Kosovo</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-19-1999-state-union-address" hreflang="en">January 19, 1999: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-17-1998-statement-his-testimony-grand-jury" hreflang="en">August 17, 1998: Statement on His Testimony Before the Grand Jury</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/march-25-1998-remarks-people-rwanda" hreflang="en">March 25, 1998: Remarks to the People of Rwanda</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/march-23-1998-remarks-people-ghana" hreflang="en">March 23, 1998: Remarks to the People of Ghana</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-27-1998-state-union-address" hreflang="en">January 27, 1998: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-26-1998-response-lewinsky-allegations" hreflang="en">January 26, 1998: Response to the Lewinsky Allegations</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/april-22-1997-address-people-and-relief-workers-grand-forks-nd" hreflang="en">April 22, 1997: Address to the People and Relief Workers of Grand Forks, ND</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-4-1997-state-union-address" hreflang="en">February 4, 1997: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+<div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-20-1997-second-inaugural" hreflang="en">January 20, 1997: Second Inaugural</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-3-1996-remarks-congregation-st-pauls-ame-church" hreflang="en">November 3, 1996: Remarks to the Congregation of St. Paul's AME Church</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-6-1996-presidential-debate-senator-bob-dole" hreflang="en">October 6, 1996: Presidential Debate with Senator Bob Dole</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-29-1996-remarks-democratic-national-convention" hreflang="en">August 29, 1996: Remarks at the Democratic National Convention</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-25-1996-victims-rights-announcement" hreflang="en">June 25, 1996: Victims Rights Announcement</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-23-1996-state-union-address" hreflang="en">January 23, 1996: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-30-1995-address-employees-mackie-metal-plant" hreflang="en">November 30, 1995: Address to the Employees of the Mackie Metal Plant</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-27-1995-address-bosnia" hreflang="en">November 27, 1995: Address on Bosnia</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-16-1995-address-race-relations" hreflang="en">October 16, 1995: Address on Race Relations</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/july-19-1995-address-affirmative-action" hreflang="en">July 19, 1995: Address on Affirmative Action</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/april-23-1995-time-healing-ceremony" hreflang="en">April 23, 1995: Time for Healing Ceremony</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-24-1995-state-union-address" hreflang="en">January 24, 1995: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/july-12-1994-remarks-brandenburg-gate" hreflang="en">July 12, 1994: Remarks at the Brandenburg Gate</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-6-1994-remarks-us-national-cemetery" hreflang="en">June 6, 1994: Remarks at the U.S. National Cemetery</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-25-1994-state-union-address" hreflang="en">January 25, 1994: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/december-8-1993-remarks-signing-nafta" hreflang="en">December 8, 1993: Remarks on the Signing of NAFTA</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-13-1993-remarks-convocation-church-god-christ-memphis" hreflang="en">November 13, 1993: Remarks to the Convocation of the Church of God in Christ in Memphis</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-7-1993-address-somalia" hreflang="en">October 7, 1993: Address on Somalia</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-22-1993-address-health-care-reform" hreflang="en">September 22, 1993: Address on Health Care Reform</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-13-1993-remarks-signing-israeli-palestinian" hreflang="en">September 13, 1993: Remarks at the Signing of the Israeli-Palestinian Agreement</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-6-1993-speech-25th-anniversary-memorial-mass-robert-f" hreflang="en">June 6, 1993: Speech at the 25th Anniversary Memorial Mass for Robert F. Kennedy</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/may-5-1993-remarks-operation-restore-hope" hreflang="en">May 5, 1993: Remarks on Operation Restore Hope</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/april-30-1993-national-service-address" hreflang="en">April 30, 1993: National Service Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-17-1993-address-joint-session-congress" hreflang="en">February 17, 1993: Address Before a Joint Session of Congress</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-5-1993-remarks-signing-family-medical-leave-act" hreflang="en">February 5, 1993: Remarks at the Signing of the Family Medical Leave Act</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-29-1993-press-conference-gays-military" hreflang="en">January 29, 1993: Press Conference on "Gays in the Military"</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-20-1993-first-inaugural" hreflang="en">January 20, 1993: First Inaugural</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div></div>

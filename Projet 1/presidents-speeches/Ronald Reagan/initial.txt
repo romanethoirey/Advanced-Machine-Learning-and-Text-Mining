@@ -1,0 +1,308 @@
+<div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix">    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-11-1989-farewell-address" hreflang="en">January 11, 1989: Farewell Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/december-16-1988-speech-foreign-policy" hreflang="en">December 16, 1988: Speech on Foreign Policy</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-11-1988-remarks-veterans-day-ceremony" hreflang="en">November 11, 1988: Remarks at the Veteran's Day Ceremony</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-26-1988-address-united-nations" hreflang="en">September 26, 1988: Address to the United Nations</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-15-1988-farewell-address-republican-national-convention" hreflang="en">August 15, 1988: Farewell Address at the Republican National Convention</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/may-31-1988-address-moscow-state-university" hreflang="en">May 31, 1988: Address at Moscow State University</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-25-1988-state-union-address" hreflang="en">January 25, 1988: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/december-10-1987-address-nation-soviet-us-summit-meeting" hreflang="en">December 10, 1987: Address to the Nation on the Soviet-U.S. Summit Meeting</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/december-8-1987-remarks-signing-inf-treaty-soviet-premier" hreflang="en">December 8, 1987: Remarks at the Signing of the INF Treaty with Soviet Premier Gorbachev</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-12-1987-address-brandenburg-gate-berlin-wall" hreflang="en">June 12, 1987: Address from the Brandenburg Gate (Berlin Wall)</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/march-4-1987-address-nation-iran-contra" hreflang="en">March 4, 1987: Address to the Nation on Iran-Contra</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-27-1987-state-union-address" hreflang="en">January 27, 1987: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+<div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-22-1986-remarks-signing-tax-reform-act" hreflang="en">October 22, 1986: Remarks on Signing the Tax Reform Act</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-13-1986-address-meetings-soviet-premier-gorbachev" hreflang="en">October 13, 1986: Address on the Meetings with Soviet Premier Gorbachev</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-14-1986-speech-nation-campaign-against-drug-abuse" hreflang="en">September 14, 1986: Speech to the Nation on the Campaign Against Drug Abuse</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/april-14-1986-speech-nation-air-strikes-against-libya" hreflang="en">April 14, 1986: Speech to the Nation on Air Strikes Against Libya</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-4-1986-state-union-address" hreflang="en">February 4, 1986: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-28-1986-address-space-shuttle-challenger" hreflang="en">January 28, 1986: Address on the Space Shuttle "Challenger"</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-21-1985-speech-geneva-summit" hreflang="en">November 21, 1985: Speech on the Geneva Summit</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/may-5-1985-bergen-belsen-concentration-camp" hreflang="en">May 5, 1985: Bergen-Belsen Concentration Camp</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-6-1985-state-union-address" hreflang="en">February 6, 1985: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-21-1985-second-inaugural-address" hreflang="en">January 21, 1985: Second Inaugural Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-21-1984-debate-walter-mondale-defense-and-foreign" hreflang="en">October 21, 1984: Debate with Walter Mondale (Defense and Foreign Policy)</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-7-1984-debate-walter-mondale-domestic-issues" hreflang="en">October 7, 1984: Debate with Walter Mondale (Domestic Issues)</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-23-1984-republican-national-convention" hreflang="en">August 23, 1984: Republican National Convention</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-6-1984-40th-anniversary-d-day" hreflang="en">June 6, 1984: 40th Anniversary of D-Day</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-3-1984-remarks-citizens-ballyporeen-ireland" hreflang="en">June 3, 1984: Remarks to the Citizens of Ballyporeen, Ireland</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/may-28-1984-remarks-honoring-vietnam-wars-unknown-soldier" hreflang="en">May 28, 1984: Remarks Honoring the Vietnam War’s Unknown Soldier</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-29-1984-address-announcing-his-candidacy-reelection" hreflang="en">January 29, 1984: Address Announcing His Candidacy for Reelection</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-25-1984-state-union-address" hreflang="en">January 25, 1984: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-4-1983-remarks-us-casualties-lebanon-and-grenada" hreflang="en">November 4, 1983: Remarks on U.S. Casualties in Lebanon and Grenada</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-2-1983-speech-creation-martin-luther-king-jr-national" hreflang="en">November 2, 1983: Speech on the Creation of the Martin Luther King, Jr., National Holiday</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-27-1983-speech-nation-lebanon-and-grenada" hreflang="en">October 27, 1983: Speech to the Nation on Lebanon and Grenada</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-5-1983-speech-soviet-attack-korean-airliner" hreflang="en">September 5, 1983: Speech on the Soviet Attack on a Korean Airliner</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/april-27-1983-address-central-america" hreflang="en">April 27, 1983: Address on Central America</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/march-23-1983-address-nation-national-security" hreflang="en">March 23, 1983: Address to the Nation on National Security</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/march-8-1983-evil-empire-speech" hreflang="en">March 8, 1983: "Evil Empire" Speech</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-18-1983-speech-conservative-political-action" hreflang="en">February 18, 1983: Speech at the Conservative Political Action Conference</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-25-1983-state-union-address" hreflang="en">January 25, 1983: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-20-1982-address-nation-lebanon" hreflang="en">September 20, 1982: Address to the Nation on Lebanon</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-1-1982-speech-nation-us-policy-middle-east" hreflang="en">September 1, 1982: Speech to the Nation on U.S. Policy in the Middle East</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-16-1982-address-tax-and-budget-legislation" hreflang="en">August 16, 1982: Address on Tax and Budget Legislation</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-17-1982-speech-united-nations-general-assembly" hreflang="en">June 17, 1982: Speech to the United Nations General Assembly</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-9-1982-address-bundestag-west-germany" hreflang="en">June 9, 1982: Address to the Bundestag in West Germany</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-8-1982-address-british-parliament" hreflang="en">June 8, 1982: Address to the British Parliament</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-26-1982-state-union-address" hreflang="en">January 26, 1982: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/december-23-1981-address-nation-christmas-and-situation-poland" hreflang="en">December 23, 1981: Address to the Nation on Christmas and the Situation in Poland</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-18-1981-speech-strategic-arms-reduction-talks" hreflang="en">November 18, 1981: Speech on the Strategic Arms Reduction Talks</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-3-1981-remarks-air-traffic-controllers-strike" hreflang="en">August 3, 1981: Remarks on the Air Traffic Controllers Strike</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/july-27-1981-address-federal-tax-reduction-legislation" hreflang="en">July 27, 1981: Address on Federal Tax Reduction Legislation</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/june-29-1981-speech-naacp-annual-convention" hreflang="en">June 29, 1981: Speech to the NAACP Annual Convention</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/may-17-1981-address-university-notre-dame" hreflang="en">May 17, 1981: Address at University of Notre Dame</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/april-28-1981-address-program-economic-recovery" hreflang="en">April 28, 1981: Address on the Program for Economic Recovery</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-29-1981-first-press-conference" hreflang="en">January 29, 1981: First Press Conference</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-20-1981-first-inaugural-address" hreflang="en">January 20, 1981: First Inaugural Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/july-17-1980-republican-national-convention" hreflang="en">July 17, 1980: Republican National Convention</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/november-13-1979-announcement-presidential-candidacy" hreflang="en">November 13, 1979: Announcement for Presidential Candidacy</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-19-1976-remarks-republican-national-convention" hreflang="en">August 19, 1976: Remarks at the Republican National Convention</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-27-1964-time-choosing" hreflang="en">October 27, 1964: "A Time for Choosing"</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div></div>

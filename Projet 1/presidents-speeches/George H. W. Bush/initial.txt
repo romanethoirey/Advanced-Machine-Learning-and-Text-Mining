@@ -1,0 +1,125 @@
+<div data-drupal-views-infinite-scroll-content-wrapper="" class="views-infinite-scroll-content-wrapper clearfix">    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-5-1993-address-west-point" hreflang="en">January 5, 1993: Address at West Point</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/december-15-1992-remarks-texas-am-university" hreflang="en">December 15, 1992: Remarks at Texas A&amp;M University</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/december-4-1992-address-somalia" hreflang="en">December 4, 1992: Address on Somalia</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-11-1992-debate-bill-clinton-and-ross-perot" hreflang="en">October 11, 1992: Debate with Bill Clinton and Ross Perot</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-20-1992-republican-national-convention" hreflang="en">August 20, 1992: Republican National Convention</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-28-1992-state-union-address" hreflang="en">January 28, 1992: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/july-31-1991-press-conference-mikhail-gorbachev" hreflang="en">July 31, 1991: Press Conference with Mikhail Gorbachev</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/march-6-1991-address-joint-session-congress-end-gulf-war" hreflang="en">March 6, 1991: Address Before a Joint Session of Congress on the End of the Gulf War</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-27-1991-address-end-gulf-war" hreflang="en">February 27, 1991: Address on the End of the Gulf War</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-29-1991-state-union-address" hreflang="en">January 29, 1991: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-16-1991-address-nation-invasion-iraq" hreflang="en">January 16, 1991: Address to the Nation on the Invasion of Iraq</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+    <div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-2-1990-address-nation-budget" hreflang="en">October 2, 1990: Address to the Nation on the Budget</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div>
+<div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/october-1-1990-address-united-nations" hreflang="en">October 1, 1990: Address to the United Nations</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-11-1990-address-joint-session-congress" hreflang="en">September 11, 1990: Address Before a Joint Session of Congress</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-8-1990-address-iraqs-invasion-kuwait" hreflang="en">August 8, 1990: Address on Iraq's Invasion of Kuwait</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/july-26-1990-remarks-signing-americans-disabilities-act" hreflang="en">July 26, 1990: Remarks on the Signing of the Americans with Disabilities Act</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-31-1990-state-union-address" hreflang="en">January 31, 1990: State of the Union Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/december-20-1989-address-nation-panama" hreflang="en">December 20, 1989: Address to the Nation on Panama</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/may-12-1989-commencement-address-texas-am-university" hreflang="en">May 12, 1989: Commencement Address at Texas A&amp;M University</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/february-9-1989-address-joint-session-congress" hreflang="en">February 9, 1989: Address Before a Joint Session of Congress</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/january-20-1989-inaugural-address" hreflang="en">January 20, 1989: Inaugural Address</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/september-25-1988-debate-michael-dukakis" hreflang="en">September 25, 1988: Debate with Michael Dukakis</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div><div class="views-row"><div class="views-field views-field-title"><span class="field-content"><a href="/the-presidency/presidential-speeches/august-18-1988-acceptance-speech-republican-national" hreflang="en">August 18, 1988: Acceptance Speech at the Republican National Convention</a></span></div><div class="views-field views-field-presidential-media-icons"><span class="field-content"><section class="speech-icons-column">
+            <span class="media-video">video icon</span>
+                <span class="media-audio">audio icon</span>
+                <span class="media-transcript">transcript icon</span>
+    </section>
+</span></div></div></div>
